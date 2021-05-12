@@ -87,6 +87,14 @@ a:hover {
   padding-bottom: 20px;
 }
 
+.links {
+  color:#66FCF1;
+}
+
+.links:hover {
+  color:white;
+}
+
 @media (max-width: 960px) {
   .container {
     width: 700px;
