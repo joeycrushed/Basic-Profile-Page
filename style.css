@@ -2,17 +2,20 @@ body {
   background-image: url('images/background.jpg');
   background-size: cover;
   color: #C5C6C7;
-  font-family: 'Open sans', san-serif;
+  font-family: Roboto;
   text-align: center;
 }
 h1 {
   font-weight: bold;
   color: #66FCF1;
+  font-family: 'Open sans', san-serif;
+  font-size: 50px;
 }
 
 h2 {
   color:#66FCF1;
   font-size: 25px;
+  font-family: 'Open sans'
 
 }
 
@@ -41,7 +44,7 @@ a:hover {
 }
 
 .card {
-   background-color: #1F2833;
+   background-color: rgba(31, 40, 51, 0.75);
   padding: 25px;
   border-radius: 4px;
   margin: 10px;
